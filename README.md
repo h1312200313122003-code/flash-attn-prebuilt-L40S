@@ -21,7 +21,7 @@ The goal is to save others hours of build time and simplify installation for CUD
 
 ## 📦 Download
 
-👉 [**Download flash_attn-2.8.0.post2-cp310-cp310-linux_x86_64.whl**](https://YOUR_DOWNLOAD_LINK_HERE)
+👉 [https://github.com/h1312200313122003-code/flash-attn-prebuilt-L40S/releases/tag/v2.8.0.post2-cu121-l40s]
 
 *(Replace the link above with your Google Drive or GitHub Release URL)*
 
